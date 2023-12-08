@@ -1,0 +1,16 @@
+body,
+#root {
+  min-height: 100vh;
+}
+
+.cl-signIn-root {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cl-userProfile-root,
+.cl-card {
+  width: 100% !important;
+}

@@ -1,0 +1,4 @@
+.product_card_image {
+  height: 200px;
+  object-fit: cover;
+}

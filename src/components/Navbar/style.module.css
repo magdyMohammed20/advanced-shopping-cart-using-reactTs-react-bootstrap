@@ -1,0 +1,13 @@
+.shoppingcart {
+  width: 2rem;
+  height: 2rem;
+  overflow: visible;
+}
+
+.absPosition {
+  top: 0% !important;
+  right: 0%;
+  transform: translate(45%, -45%);
+  width: 20px;
+  height: 20px;
+}
